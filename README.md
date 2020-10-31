@@ -1,5 +1,7 @@
-# SOS---Leaf-Localization
+# [SOS---Leaf-Localization](https://github.com/vkk1710/System-on-silicon)
 My work during the Deep Learning Intern at System on Silicon Ltd
+
+The original repo is private according to the company norms.
 
 Objective
 ----------
