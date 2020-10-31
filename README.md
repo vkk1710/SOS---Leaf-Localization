@@ -2,6 +2,7 @@
 My work during the Deep Learning Intern at System on Silicon Ltd
 
 The original repo is private according to the company norms.
+GitHub Link : https://github.com/vkk1710/System-on-silicon
 
 Objective
 ----------
